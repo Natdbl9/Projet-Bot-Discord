@@ -1,4 +1,4 @@
-# 🤖 DataStructBot : Assistant d'Apprentissage et de Révision (Projet B2)
+# 🤖Projet-Bot-Discord : Assistant d'Apprentissage et de Révision (Projet B2)
 
 ## 🌟 Présentation
 
